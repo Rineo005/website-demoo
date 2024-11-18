@@ -1,0 +1,30 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2130d2;
+    text-align: center;
+}
+h1 {
+    color: #333;
+    padding: 20px;
+}
+.product-card {
+    
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+img {
+    max-width: 100%;
+}
+header {
+    background-color: #0077cc;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+button {
+    background-color: #0077cc;
+}
